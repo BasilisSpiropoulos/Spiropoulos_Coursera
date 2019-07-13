@@ -9,13 +9,13 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file stats.c 
+ * @brief Data analytics on the maximum, minimum, mean, and median of an usigned char data set array
  *
  * <Add Extended Description Here>
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author Spiropoulos Basilis
+ * @date 14/7/2019
  *
  */
 
